@@ -6,7 +6,7 @@ These codes are for the paper "Association between aging and psoriasis: evidence
 
 Cross_sectional_study_NHANES_byR.R is a Rscript used for calculating KDM-BA, PhenoAge, and performing Kruskal-Wallis H test, weighted restricted cubic spline analysis, and calculating FDR adjusted P-value based on NHANES database by R software (version 4.3.3).
 
-Cross_sectional_study_NHANES_bySAS.sh is a shell script used for statistical analysis based on NHANES database by SAS software (version 9.4 TS1M7).
+Cross_sectional_study_NHANES_bySAS.sas is a shell script used for statistical analysis based on NHANES database by SAS software (version 9.4 TS1M7).
 
 MR_byR.R is a Rscript used for conducting univariable, multivariable, and mediation Mendelian Randomization analysis by R software (version 4.3.3).
 
